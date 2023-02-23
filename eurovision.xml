@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eurovision xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" presupuesto="16.3 ">
+    <descripcion> La LXVI edición del Festival de la Canción de Eurovisión se celebró en el Pala Alpitour de Turín, Italia, el 10, 12 ST 14 de mayo de 2022, tras la victoria de la banda de rock Maneskin en la edición de 2021 en Róterdam (Países Bajos), con la canción: Zitti e buoni, que llevó al país transalpino con 524 puntos a organizar esta edición. </descripcion>
+    <paises>
+        <pais nombre="Spain" posicion="3">
+            <votos>
+                <entrada pais="Ukraine" cantidad="12" tipo="Publico"/>
+                <entrada pais="Romania" cantidad="10" tipo="Publico"/>
+                <entrada pais="United Kingdom" cantidad="8" tipo="Publico"/>
+                <entrada pais="Romania" cantidad="4" tipo="Jurado"/>
+                <entrada pais="United Kingdom" cantidad="3" tipo="Jurado"/>
+            </votos>
+        </pais>
+        <pais nombre="United Kingdom" posicion="2">
+            <votos>
+                <entrada pais="Ukraine" cantidad="12" tipo="Publico"/>
+                <entrada pais="Romania" cantidad="3" tipo="Publico"/>
+                <entrada pais="Spain" cantidad="5" tipo="Publico"/>
+                <entrada pais="Spain" cantidad="10" tipo="Jurado"/>
+            </votos>
+        </pais>
+        <pais nombre="Ukraine" posicion="1">
+            <votos>
+                <entrada pais="United Kingdom" cantidad="7" tipo="Publico"/>
+                <entrada pais="Spain" cantidad="1" tipo="Publico"/>
+                <entrada pais="United Kingdom" cantidad="12" tipo="Jurado"/>
+                </votos>
+        </pais>
+        <pais nombre="Romania" posicion="18"/>
+    </paises>
+    <representantes>
+        <representante pais="Spain" cancion="song-1.0">Chanel Terrero Martínez</representante>
+        <representante pais="United Kingdom" cancion="song-2.2">Sam Ryder</representante>
+        <representante pais="Ukraine" cancion="song-1.2" grupo="true">Kalush Orchestra</representante>
+        <representante pais="Romania" cancion="song-0.2" grupo="true">WRS</representante>
+    </representantes>
+    <canciones>
+        <cancion codigo="song-1.0" titulo="SloMo" seleccion="2022-01-29"/>
+        <cancion codigo="song-2.2" titulo="Space Man" seleccion="2022-03-10"/>
+        <cancion codigo="song-1.2" titulo="Stefania" seleccion="2022-02-12"/>
+        <cancion codigo="song-0.2" titulo="Llámame" seleccion="2022-03-05"/>
+    </canciones>
+</eurovision>
